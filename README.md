@@ -1,2 +1,2 @@
-# Zuri-Django-Urls
+# Zuri Django Urls
 Simple Django Project
